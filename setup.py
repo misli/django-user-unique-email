@@ -10,7 +10,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as readme:
 
 setup(
     name='django-user-unique-email',
-    version='0.0.1',
+    version='0.1.0',
     description='Reusable User model with required unique email field and mid-project support.',
     long_description=long_description,
     author='Jakub Dorňák',
